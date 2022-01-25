@@ -1,0 +1,12 @@
+D:\C#\C#-視窗設計\H003\bin\Debug\H003.exe.config
+D:\C#\C#-視窗設計\H003\bin\Debug\H003.exe
+D:\C#\C#-視窗設計\H003\bin\Debug\H003.pdb
+D:\C#\C#-視窗設計\H003\obj\Debug\H003.Form1.resources
+D:\C#\C#-視窗設計\H003\obj\Debug\H003.Properties.Resources.resources
+D:\C#\C#-視窗設計\H003\obj\Debug\H003.csproj.GenerateResource.cache
+D:\C#\C#-視窗設計\H003\obj\Debug\H003.csproj.CoreCompileInputs.cache
+D:\C#\C#-視窗設計\H003\obj\Debug\H003.exe
+D:\C#\C#-視窗設計\H003\obj\Debug\H003.pdb
+D:\C#\C#-視窗設計\H003\obj\Debug\H003.csprojAssemblyReference.cache
+D:\C#\C#-視窗設計\H003\obj\Debug\Interop.WMPLib.dll
+D:\C#\C#-視窗設計\H003\obj\Debug\H003.csproj.ResolveComReference.cache

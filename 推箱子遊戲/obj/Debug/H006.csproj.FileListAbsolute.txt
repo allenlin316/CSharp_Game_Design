@@ -1,0 +1,10 @@
+D:\C#\C#-視窗設計\H006\bin\Debug\H006.exe.config
+D:\C#\C#-視窗設計\H006\bin\Debug\H006.exe
+D:\C#\C#-視窗設計\H006\bin\Debug\H006.pdb
+D:\C#\C#-視窗設計\H006\obj\Debug\H006.Form1.resources
+D:\C#\C#-視窗設計\H006\obj\Debug\H006.Properties.Resources.resources
+D:\C#\C#-視窗設計\H006\obj\Debug\H006.csproj.GenerateResource.cache
+D:\C#\C#-視窗設計\H006\obj\Debug\H006.csproj.CoreCompileInputs.cache
+D:\C#\C#-視窗設計\H006\obj\Debug\H006.exe
+D:\C#\C#-視窗設計\H006\obj\Debug\H006.pdb
+D:\C#\C#-視窗設計\H006\obj\Debug\H006.csprojAssemblyReference.cache

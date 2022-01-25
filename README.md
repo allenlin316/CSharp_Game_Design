@@ -1,4 +1,4 @@
-
+![好玩 badge](https://img.shields.io/badge/status-fun-orange)
 # CSharp_Game_Design
 
 ## 歡迎試玩遊戲
